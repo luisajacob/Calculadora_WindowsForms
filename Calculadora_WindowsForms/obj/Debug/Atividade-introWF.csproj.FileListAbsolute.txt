@@ -1,0 +1,22 @@
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.exe.config
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.exe
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.pdb
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.AssemblyReference.cache
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.SuggestedBindingRedirects.cache
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade_introWF.Form1.resources
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade_introWF.Properties.Resources.resources
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.GenerateResource.cache
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.CoreCompileInputs.cache
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.exe
+Z:\EC2\ALG2\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.pdb
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.exe.config
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.exe
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\bin\Debug\Atividade-introWF.pdb
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.AssemblyReference.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade_introWF.Form1.resources
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade_introWF.Properties.Resources.resources
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.GenerateResource.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.csproj.CoreCompileInputs.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.exe
+C:\Users\Win\OneDrive - Fundação Salvador Arena\Atividade-introWF\Atividade-introWF\obj\Debug\Atividade-introWF.pdb
